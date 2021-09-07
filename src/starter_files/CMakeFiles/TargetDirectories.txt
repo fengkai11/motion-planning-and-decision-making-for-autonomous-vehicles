@@ -1,0 +1,3 @@
+/media/jckuri/1.9TB/UDACITY/UDACITY REVIEWS/REVIEWS_SDC/Motion Planning and Decision Making for Autonomous Vehicles/nd013-c5-planning-starter/project/starter_files/CMakeFiles/rebuild_cache.dir
+/media/jckuri/1.9TB/UDACITY/UDACITY REVIEWS/REVIEWS_SDC/Motion Planning and Decision Making for Autonomous Vehicles/nd013-c5-planning-starter/project/starter_files/CMakeFiles/edit_cache.dir
+/media/jckuri/1.9TB/UDACITY/UDACITY REVIEWS/REVIEWS_SDC/Motion Planning and Decision Making for Autonomous Vehicles/nd013-c5-planning-starter/project/starter_files/CMakeFiles/spiral_planner.dir
